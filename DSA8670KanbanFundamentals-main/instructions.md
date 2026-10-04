@@ -8,7 +8,7 @@ Screenshots and your reflection will be submitted in Canvas.
 ## 1. Make a new GitHub Repository
 1. Select **File → New Repository**.  
 2. Name the repository "Kanban Practice" 
-3. Add all of the zip file contents to this new pository.  
+3. Add all of the zip file contents to this new repository.  
 
 ---
 
