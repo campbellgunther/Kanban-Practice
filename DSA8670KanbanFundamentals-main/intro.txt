@@ -1,5 +1,6 @@
 Campbell Gunther
 10/04/2026
+Age: 22
 
 This is a placeholder file for the DSA8670 Kanban Fundamentals assignment.
 You will edit this file locally on your computer, then commit and push your changes
